@@ -4,13 +4,13 @@ Mentorship Goals Needed To Finish
 
 ## CSS
 
-- [ ] Flex Box
-- [ ] CSS Grid
-- [ ] Transform
-- [ ] Animation
-- [ ] Media Queries
+- [ْx] Flex Box
+- [x] CSS Grid
+- [x] Transform
+- [x] Animation
+- [x] Media Queries
 - [ ] Grid System
-- [ ] Create Your Framework || UI Kit
+- [x] Create Your Framework || UI Kit
 
 ## JavaScript
 
@@ -59,9 +59,9 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ ] Template 1 [HTML + CSS]
-- [ ] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
+- [x] Template 1 [HTML + CSS]
+- [x] Template 2 [HTML + CSS]
+- [x] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
@@ -93,33 +93,3 @@ Mentorship Goals Needed To Finish
 - [ ] Debugging
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
-
-## Peoples Checklist
-
-- [ ] Ahmed Ezz
-- [ ] Ahmed Darwish
-- [ ] Amr Hendawy
-- [ ] Anas Qasem
-- [ ] Ayman Ali
-- [ ] Ayman Taha
-- [ ] Elsayed Gamal
-- [ ] Hagar Khalid
-- [ ] Hassan Ahmed Mustafa
-- [ ] Heba Gamal
-- [ ] Houssam Sabbabi
-- [ ] Karam Ayed
-- [ ] Lobna Nasser
-- [ ] Mahmoud Ali
-- [ ] Mohamed Ahmed Shawky
-- [ ] Mohamed Amr Barakat
-- [ ] Mohamed Mustafa Abugad
-- [ ] Mohamed Salah
-- [ ] Naglaa Saber
-- [ ] Nahla Khaireldeen
-- [ ] Nour Atef
-- [ ] Noura Nabil
-- [ ] Radwa Omar
-- [ ] Remon Lotfy
-- [ ] Salwa Sayed Younes
-- [ ] Sami Albakour
-- [ ] Shaimaa Ramadan
