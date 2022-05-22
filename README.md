@@ -4,7 +4,7 @@ Mentorship Goals Needed To Finish
 
 ## CSS
 
-- [ْx] Flex Box
+- [x] Flex Box
 - [x] CSS Grid
 - [x] Transform
 - [x] Animation
