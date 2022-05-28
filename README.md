@@ -28,7 +28,7 @@ Mentorship Goals Needed To Finish
 ## Tools 
 
 - [ ] Lighthouse
-- [ ] Google Developer Tools
+- [x] Google Developer Tools
 - [ ] Git And Github
 - [ ] Terminal And Commands
 
@@ -78,7 +78,7 @@ Mentorship Goals Needed To Finish
 - [ ] Modules
 - [ ] Reactivity
 - [ ] Design Patterns
-- [ ] Package Managers
+- [x] Package Managers
 
 ## Save Time Skills
 
